@@ -1,0 +1,662 @@
+﻿  main.cpp
+C:\installation-20241022T202825Z-001\Project1\basic_camera.h(92,9): warning C4068: unknown pragma 'oncea'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\sphere.h(199,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\sphere.h(200,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\sphere.h(204,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(46,85): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(46,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(48,87): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(48,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(50,85): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(50,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(52,85): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(52,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(94,96): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(94,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(99,97): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(99,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(104,95): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(104,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(109,96): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\fan.h(109,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\curve.h(148,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\curve.h(148,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\curve.h(151,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\curve.h(161,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\curve.h(167,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\curve.h(168,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,17): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,17): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,17): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,17): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,25): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,25): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,25): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,25): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(458,25): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(459,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(460,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(461,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(462,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(463,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(464,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(465,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(466,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,17): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,17): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,17): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,17): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,25): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,25): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,25): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,25): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(471,25): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,17): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,17): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,17): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,17): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,25): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,25): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,25): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,25): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(472,25): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(473,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(474,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(475,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,13): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,13): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,13): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,13): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,21): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,21): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,21): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(479,21): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(480,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(481,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(482,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(483,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(484,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(485,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(486,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(487,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(488,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(489,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(490,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,5): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,5): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,5): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,5): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,14): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,14): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,14): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,14): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,22): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,22): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,22): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(491,22): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,17): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,17): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,17): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,17): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,25): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,25): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,25): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,25): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(495,25): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,17): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,17): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,17): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,17): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,25): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,25): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,25): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,25): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(496,25): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,17): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,17): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,17): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,17): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,25): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,25): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,25): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,25): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(497,25): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(498,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(499,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(500,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(501,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(502,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,9): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,9): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,9): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,9): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,18): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,18): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,18): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,18): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,26): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,26): warning C4305:         with
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,26): warning C4305:         [
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,26): warning C4305:             _Ty=float
+C:\installation-20241022T202825Z-001\Project1\main.cpp(503,26): warning C4305:         ]
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1296,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1297,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1384,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1384,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1384,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1384,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1384,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1384,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1542,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1543,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1964,17): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1357,124): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1357,101): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+C:\installation-20241022T202825Z-001\Project1\main.cpp(1357,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\installation-20241022T202825Z-001\Project1\main.cpp(2273,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\installation-20241022T202825Z-001\Project1\main.cpp(2273,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\installation-20241022T202825Z-001\Project1\main.cpp(2273,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\installation-20241022T202825Z-001\Project1\main.cpp(2348,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\installation-20241022T202825Z-001\Project1\main.cpp(2348,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\installation-20241022T202825Z-001\Project1\main.cpp(2348,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\installation-20241022T202825Z-001\Project1\main.cpp(2349,15): warning C4101: 'color': unreferenced local variable
+C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108): warning C4244: 'argument': conversion from 'U' to 'T', possible loss of data
+C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108): warning C4244:         with
+C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108): warning C4244:         [
+C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108): warning C4244:             U=unsigned __int64
+C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108): warning C4244:         ]
+C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108): warning C4244:         and
+C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108): warning C4244:         [
+C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108): warning C4244:             T=float
+C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108): warning C4244:         ]
+  (compiling source file 'main.cpp')
+      C:\installation-20241022T202825Z-001\installation\glm\glm\detail\type_vec3.inl(292,108):
+      the template instantiation context (the oldest one first) is
+          C:\installation-20241022T202825Z-001\Project1\fan.h(61,19):
+          see reference to function template instantiation 'glm::vec<3,float,glm::packed_highp> &glm::vec<3,float,glm::packed_highp>::operator /=<unsigned __int64>(U)' being compiled
+          with
+          [
+              U=unsigned __int64
+          ]
+              C:\installation-20241022T202825Z-001\Project1\fan.h(61,19):
+              see the first reference to 'glm::vec<3,float,glm::packed_highp>::operator /=' in 'Fan::local_rotation'
+  
+  Project1.vcxproj -> C:\installation-20241022T202825Z-001\Project1\x64\Debug\Project1.exe
